@@ -1,0 +1,2 @@
+#ID	#fL     fG      sL      sG      tau     D       S       fThr    cThr    QDC0    QDC1    QDC2    QDC3    QDC4    QDC5    QDC6    QDC7    
+1	2       2       450     450     5400    25      7       20      20      50      50      50      50      50      50      50      500

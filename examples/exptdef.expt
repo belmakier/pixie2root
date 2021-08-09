@@ -1,0 +1,9 @@
+#DETECTORS
+# Crate Slot    Chan    Rate    ESums   QDCS    DSP    DSP_NAME        DSP_FILE            DSP_ID
+D 0     2       0       100     1       1       1      trapfilter      trap_params.txt     1
+D 0     2       1       100     1       0       1      trapfilter      trap_params.txt     1
+D 0     2       2       100     0       0       1      trapfilter      trap_params.txt     3
+D 0     2       3       100     0       1       1      trapfilterqdcs  trapqdc_params.txt  1
+
+#TAGGERS
+
